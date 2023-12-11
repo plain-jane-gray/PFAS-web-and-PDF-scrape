@@ -1,6 +1,6 @@
 <h1> Comparing Per- and Polyfluoroalkyl Substances (PFAS) concentrations collected in 2017 v. 2021-2023. </h1>
 
-<img src="https://github.com/department-of-veterans-affairs/DAPM-PFAS-PACT-ACT/blob/main/compare%202017%20and%202021-2023/highlight%20compare%20image.JPG">
+<img src="https://github.com/plain-jane-gray/PFAS-web-and-PDF-scrape/blob/main/compare%202017%20and%202021-2023/highlight%20compare%20image.JPG">
 
 This code compares military installations in both the 2017 and 2021-2023 datasets. If an installation is in both datasets, than the reported PFAS concentrations for those installations are compared. 22 military installations are in both datasets.
 
