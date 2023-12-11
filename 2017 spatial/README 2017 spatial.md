@@ -1,7 +1,7 @@
 <h1>Adding spatial data to the 2017 PFAS data</h1>
 
 
-<img src="https://github.com/department-of-veterans-affairs/DAPM-PFAS-PACT-ACT/blob/main/2017%20spatial/map%202018%20image.JPG">
+<img src="https://github.com/plain-jane-gray/PFAS-web-and-PDF-scrape/blob/main/2017%20spatial/map%202018%20image.JPG">
 
 
 
